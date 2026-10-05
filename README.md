@@ -1,4 +1,4 @@
-Hola a todos 👋
+Hola a todos 👋, un poquito acerca de mí
 
 <!--
 ● ¿Quién soy? 
