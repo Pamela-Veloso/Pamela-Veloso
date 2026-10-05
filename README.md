@@ -17,6 +17,6 @@ Soy Ingeniera Informática (titulada en INACAP) y tengo una formación previa en
 Entre mis proyectos destaca el desarrollo de "Terrazas de Oz", una PWA en Django y PostgreSQL para un restobar, con ocho módulos (menú digital con códigos QR, gestión de pedidos, caja con distribución de propinas, accesos por rol, trazabilidad, inventario y un módulo de Business Intelligence con modelos de machine learning para predicción de ventas y detección de anomalías), desarrollada como proyecto de título. También he trabajado en proyectos de ciencia de datos y deep learning aplicados a la industria cervecera artesanal de Valdivia, usando AWS, Apache Spark y modelos de redes neuronales. Además, trabajé durante 18 meses en Socius BI Arquitectura Ltda, como desarrolladora full stack y como administradora de Salesforce para proyectos internos de la empresa.
 
 ● ¿Cómo y a través de qué medios me pueden contactar? 
-Pueden contactarme a través de mi perfil de GitHub (Pamela-Veloso), mediante mi correo electrónico pamelavelosouribe@gmail.com o por WhatsApp al +56 98723 98XX.
+Pueden contactarme a través de mi perfil de GitHub (Pamela-Veloso), mediante mi correo electrónico pamelavelosouribe1985@gmail.com.
 
 -->
